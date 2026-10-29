@@ -1,54 +1,56 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=4500&pause=1400&color=EDEDED&center=true&vCenter=true&repeat=true&width=520&height=45&lines=Hey%2C+I'm+Chrome.;I+like+building+cool+things.;Ideas+into+reality." alt="Hey, I'm Chrome — animated introduction" />
-
-  <br/>
-
-  <p><strong>Developer in progress.</strong></p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Hey%2C+I'm+Chrome.;I+build+things+I'm+curious+about.;Always+learning." alt="Animated introduction" />
 
   <p>
-    I'm interested in technology, software development, and figuring out how things work.
-    <br/>
-    I'm always learning, experimenting, and finding new ideas to bring to life.
+    <sub>DEVELOPER IN PROGRESS · ALWAYS CURIOUS</sub>
   </p>
 
   <br/>
 
-  <img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-161616?style=flat-square&labelColor=0A0A0A&color=303030" alt="Status: Always learning" />
+  <p>
+    Interested in technology, software development, and how things work.
+    <br/>
+    Learning by experimenting, building, and figuring things out along the way.
+  </p>
+
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=555555" width="72%" alt="" />
 
 </div>
 
 <br/>
 
----
+### About me
 
-### A Little About Me
+I enjoy taking an idea and seeing what I can make of it. I'm interested in software, performance, and the details that make technology work.
 
-- I enjoy building things and seeing how far I can take an idea.
-- I'm interested in software, performance, and the technology behind the scenes.
-- I use the tools that help me do my best work, including AI.
-- I believe there's always something new to learn, no matter how much you know.
+I'm still learning, and that's exactly where I want to be.
 
 <br/>
 
-### What I Believe
+### A belief I stand by
 
-I don't think being a developer should be defined by the tools you use, how you write your code, or whether you use AI.
+I don't think developers should be judged by the tools they use, the code they write, or whether they rely on AI.
 
-What matters is your ability to think, solve problems, and turn ideas into something real.
+What matters is the ideas they pursue, the problems they solve, and the things they bring to life.
 
 <div align="center">
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=5000&pause=1800&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Greatness+isn't+about+how+you+create.;It's+about+what+you+create." alt="Greatness isn't about how you create. It's about what you create." />
+  <p><strong>Greatness isn't about how you create.</strong></p>
+  <p><strong>It's about what you create.</strong></p>
+
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=555555" width="72%" alt="" />
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:222222,50:FFFFFF,100:222222" width="100%" alt="" />
+  <sub>LEARN · EXPERIMENT · CREATE</sub>
 
   <br/><br/>
-
-  <sub>Learning, experimenting, and building something better every day.</sub>
 
 </div>
